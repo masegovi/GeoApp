@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoApp</string>
+    <string name="texto_pregunta">¿La Península de Yucatán se encuentra en el norte de México?</string>
+    <string name="texto_boton_cierto">Cierto</string>
+    <string name="texto_boton_falso">Falso</string>
+    <string name="texto_boton_anterior">Anterior</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+</resources>
